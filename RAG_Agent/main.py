@@ -19,11 +19,11 @@ def main():
     """Main application function."""
     st.set_page_config(
         page_title="SoAgent - Social-to-Lead AI Agent",
-        page_icon="🤖",
+        page_icon="*",
         layout="centered"
     )
     
-    st.title("🤖 SoAgent – Social-to-Lead AI Agent")
+    st.title("SoAgent – Social-to-Lead AI Agent")
     st.markdown("Ask questions about SocialFlow, a social-to-lead automation platform.")
     
     project_root = Path(__file__).parent.parent
