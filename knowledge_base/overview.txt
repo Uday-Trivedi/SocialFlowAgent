@@ -1,0 +1,17 @@
+SocialFlow is a SaaS product that helps businesses automatically manage and respond to conversations across social media platforms and websites. It uses AI-powered conversational agents to reply to messages, understand what users want, and convert interested people into business leads.
+
+Modern businesses receive a high volume of messages through Instagram DMs, Facebook Messenger, LinkedIn messages, website chat widgets, and social media comments. Many of these messages are repetitive, such as questions about pricing, services, availability, or basic product details. Manually responding to every message takes time and often leads to slow replies or missed conversations.
+
+SocialFlow solves this problem by acting as an always-available conversation layer between the business and its audience. The AI agent responds instantly to incoming messages using predefined conversation logic and product knowledge. This ensures that users receive quick, consistent, and relevant replies at any time of the day.
+
+A core focus of SocialFlow is social-to-lead automation. Social-to-lead means converting casual social media interactions into meaningful business opportunities. When someone comments on a post or sends a direct message, the AI agent engages them in conversation, answers their questions, and identifies whether they are simply browsing or genuinely interested in the business offering.
+
+SocialFlow uses intent detection to classify conversations into different levels of interest. Low-intent users may only receive informational responses, while high-intent users are asked follow-up questions such as their business type, use case, or contact details. When a user shows strong interest, the agent collects lead information like email address or business name and shares it with the business for further follow-up.
+
+SocialFlow is designed for small and medium businesses, startups, agencies, and online brands that want to grow without increasing their support or sales workload. It is especially useful for teams that receive many inquiries but lack the resources to respond to all of them in real time.
+
+The product is not meant to replace human teams. Instead, SocialFlow handles the initial stage of customer interaction. Once a user is identified as high intent, the conversation can be handed over to a human sales or support representative. This allows teams to focus only on users who are most likely to convert.
+
+SocialFlow is built as a no-code or low-code solution for end users. Businesses do not need technical knowledge to use the platform. They configure basic conversation flows, connect their social platforms, and let the AI agent handle incoming conversations.
+
+The main goal of SocialFlow is to help businesses respond faster, improve engagement, capture more qualified leads, and reduce manual effort by using AI-driven conversational automation.

@@ -1,0 +1,19 @@
+SocialFlow is designed to automate the early stages of customer conversations, but it has certain limitations that users should be aware of.
+
+SocialFlow can only respond based on the information provided to it. If product details, FAQs, or conversation flows are not properly configured, the AI agent may give incomplete or generic responses. The quality of replies depends on the quality of the content added by the business.
+
+SocialFlow is not intended to handle complex or highly technical support issues. When a conversation requires deep human judgment or detailed problem-solving, the system relies on human handoff to resolve the issue.
+
+SocialFlow does not make business decisions on behalf of users. It can identify interest and collect lead information, but final decisions such as pricing negotiation or contract approval must be handled by human teams.
+
+SocialFlow cannot guarantee lead conversion. While it helps capture and qualify leads, the success of conversions depends on follow-up actions taken by the business.
+
+SocialFlow does not create or schedule social media posts. It focuses only on conversation automation and lead capture.
+
+SocialFlow depends on platform policies and limitations. Changes in social media platform rules or messaging restrictions may affect how conversations are handled.
+
+SocialFlow requires an active internet connection and connected platforms to function properly. Temporary outages or disconnections may impact response availability.
+
+SocialFlow supports multiple platforms, but it does not merge conversations from different platforms into a single user profile. Each platform conversation is handled independently.
+
+These limitations ensure that users understand the scope of SocialFlow and use it as a support tool rather than a complete replacement for human teams.

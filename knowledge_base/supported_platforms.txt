@@ -1,0 +1,27 @@
+Instagram
+
+SocialFlow supports automated conversations on Instagram through direct messages and post comments. When users send a DM or comment on a post, the AI agent can reply instantly. This is useful for handling common questions, responding to interest comments, and starting lead qualification conversations.
+
+Facebook Messenger
+
+SocialFlow can manage conversations on Facebook Messenger pages. The AI agent replies to incoming messages, answers basic questions, and continues conversations based on user responses. This helps businesses maintain fast response times on Facebook without manual effort.
+
+LinkedIn
+
+SocialFlow supports LinkedIn messaging for business pages and professional outreach. The system can respond to inbound messages, ask qualifying questions, and identify business-related interest. This is especially useful for B2B companies, agencies, and service providers.
+
+Website Chat
+
+SocialFlow can be integrated with a website chat widget. Visitors can ask questions directly on the website, and the AI agent responds in real time. This helps convert website visitors into leads by answering questions and collecting contact information.
+
+Social Media Comments
+
+In addition to direct messages, SocialFlow can respond to comments on social media posts. When users comment with questions or expressions of interest, the AI agent can reply or trigger a follow-up message to continue the conversation privately.
+
+Cross-Platform Conversation Handling
+
+SocialFlow treats each platform separately while keeping a consistent conversation style. Conversations from Instagram, Facebook, LinkedIn, and the website are handled independently to avoid confusion, but all follow the same intent detection and lead capture logic.
+
+Platform-Specific Behavior
+
+Each platform has its own communication style and limitations. SocialFlow adapts responses based on the platform being used. For example, responses on LinkedIn are more professional, while Instagram replies are shorter and more casual.

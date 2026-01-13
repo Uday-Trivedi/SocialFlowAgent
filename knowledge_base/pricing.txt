@@ -1,0 +1,45 @@
+Starter Plan
+
+The Starter plan is intended for small businesses, solo founders, and individuals who are beginning to automate customer conversations. This plan focuses on basic conversation automation and lead capture.
+
+The Starter plan supports one platform, such as Instagram, Facebook Messenger, or website chat. It allows a limited number of conversations per month and includes automated replies to direct messages and basic questions.
+
+This plan includes simple lead capture, where the AI agent can collect an email address or name when a user shows interest. Advanced intent detection and lead qualification are limited in this plan.
+
+The Starter plan is best suited for businesses with low message volume that want faster responses without hiring additional staff.
+
+Growth Plan
+
+The Growth plan is designed for businesses that receive a steady flow of messages and want to actively convert conversations into leads.
+
+This plan supports multiple platforms, including Instagram, Facebook Messenger, LinkedIn, and website chat. It includes intent detection that helps classify users as low, medium, or high intent.
+
+The Growth plan allows the AI agent to ask follow-up questions, qualify leads, and capture detailed contact information such as business type and use case. Conversations can be handed over to human team members when needed.
+
+This plan is suitable for businesses that rely on social media and website inquiries for sales or customer acquisition.
+
+Business Plan
+
+The Business plan is designed for larger teams, agencies, and brands that handle high volumes of conversations.
+
+This plan supports all available platforms and allows a higher number of monthly conversations. It includes advanced lead qualification, priority human handoff, and more flexible conversation flows.
+
+The Business plan is suitable for organizations that manage multiple campaigns or accounts and require consistent and scalable conversation handling.
+
+Enterprise Plan
+
+The Enterprise plan is intended for large organizations with custom requirements.
+
+Pricing for this plan is customized based on factors such as message volume, number of connected platforms, and specific workflow needs. This plan may include custom conversation logic, dedicated onboarding support, and priority assistance.
+
+Enterprise customers typically require tailored solutions that go beyond standard plans.
+
+Free Trial
+
+SocialFlow offers a limited free trial for new users. The trial allows businesses to test core features such as automated replies, basic intent detection, and lead capture before committing to a paid plan.
+
+The free trial helps businesses understand whether SocialFlow fits their needs.
+
+Billing and Plan Management
+
+SocialFlow plans are billed on a monthly basis. Businesses can upgrade, downgrade, or change their plan as their needs grow. There are no long-term commitments required for standard plans
